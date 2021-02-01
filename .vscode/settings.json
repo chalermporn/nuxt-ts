@@ -1,0 +1,25 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true,
+    "source.fixAll.eslint": true
+  },
+  "editor.tabSize": 2,
+  "eslint.nodePath": "/node_modules",
+  "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+  "javascript.validate.enable": true,
+  "vetur.format.defaultFormatter.html": "js-beautify-html",
+  "vetur.format.defaultFormatter.js": "vscode-typescript",
+  "vetur.validation.template": false,
+  "vueStyle.formatOnSave": true,
+  "vueStyle.ignoreFilesOnSave": [],
+  "vueStyle.preset": {
+    "always-semicolon": false,
+    "block-indent": "    ",
+    "color-shorthand": null,
+    "eof-newline": null,
+    "leading-zero": null,
+    "unitless-zero": null,
+    "space-after-selector-delimiter": null,
+  },
+  "css.validate": false
+}

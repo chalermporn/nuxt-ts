@@ -9,7 +9,8 @@
     "generate": "nuxt-ts generate",
     "lint:js": "eslint --ext \".js,.vue\" --ignore-path .gitignore .",
     "lint": "yarn lint:js",
-    "test": "jest"
+    "test": "jest",
+    "post-update": "yarn upgrade --latest"
   },
   "lint-staged": {
     "*.{js,vue}": "eslint"
@@ -24,7 +25,11 @@
     "@nuxt/content": "^1.11.1",
     "@nuxt/typescript-runtime": "^2.0.1",
     "@nuxtjs/axios": "^5.12.5",
+    "@nuxtjs/google-fonts": "^1.2.0",
     "@nuxtjs/pwa": "^3.3.5",
+    "@nuxtjs/tailwindcss": "^3.4.2",
+    "@tailwindcss/typography": "^0.4.0",
+    "@tailwindcss/ui": "^0.7.2",
     "core-js": "^3.8.3",
     "nuxt": "^2.14.12"
   },
