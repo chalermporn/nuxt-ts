@@ -21,5 +21,12 @@
     "unitless-zero": null,
     "space-after-selector-delimiter": null,
   },
-  "css.validate": false
+  "css.validate": false,
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "tailwindCSS.includeLanguages": {
+    "plaintext": "html"
+  },
+  "tailwindCSS.emmetCompletions": true
 }
