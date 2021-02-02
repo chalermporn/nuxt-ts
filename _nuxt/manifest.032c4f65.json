@@ -1,7 +1,7 @@
 {
   "name": "nuxt-ts",
   "short_name": "nuxt-ts",
-  "description": "## Build Setup",
+  "description": "[Demo](https://chalermporn.github.io/nuxt-ts/)",
   "icons": [
     {
       "src": "/nuxt-ts/_nuxt/icons/icon_64x64.5f6a36.png",
