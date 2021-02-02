@@ -1,5 +1,7 @@
 # nuxt-ts
 
+[Demo](https://chalermporn.github.io/nuxt-ts/)
+
 ## Build Setup
 
 ```bash
