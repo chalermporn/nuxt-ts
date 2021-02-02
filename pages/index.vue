@@ -5,7 +5,7 @@
         <div class="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8">
           <div class="flex items-center justify-between h-16">
             <div class="flex items-center">
-              <div class="flex-shrink-0 text-gray-">
+              <div class="flex-shrink-0">
                 <img
                   class="w-8 h-8"
                   src="https://tailwindui.com/img/logos/workflow-mark-indigo-400.svg"
